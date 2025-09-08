@@ -15,5 +15,5 @@ Your contributions are always welcome!
 - Check your spelling and grammar.
 
 ### Gentle reminder:
-- If you're submitting your own project, makes sure it has been a while since you started developing it and it's well-tested. Let's not fill up the list with unmaintained, empty projects.
+- If you're submitting your own project, make sure it has been in development for a while and is reasonably well-tested. This helps keep the list full of useful, maintained and high-quality projects. 
 - The projects have to tool pygame or use it in some way or other. There may be few exceptions because it helps pygame development crucially, but let's try to keep all projects pygame-related.
