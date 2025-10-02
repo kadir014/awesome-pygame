@@ -15,6 +15,7 @@ A curated list of amazingly awesome Pygame tools, libraries and frameworks.
 - [mili](https://github.com/damusss/mili) - Minimal immediate-mode python user interface library.
 - [pygame_gui](https://github.com/MyreMylar/pygame_gui) - A GUI system for pygame.
 - [pygame-menu-ce](https://github.com/ppizarror/pygame-menu/tree/pygame-ce) - A menu for pygame. Simple, and easy to use.
+- [nevu-ui](https://github.com/GolemBebrov/nevu-ui) - A modern, high-performance GUI framework for games, featuring a declarative style of creating interface.
 
 ## Multimedia
 - [pygame-video](https://github.com/kadir014/pygame-video) - Video player for Pygame
