@@ -26,3 +26,4 @@ A curated list of amazingly awesome Pygame tools, libraries and frameworks.
 - [pgcooldown](https://github.com/DickerDackel/pgcooldown) - A cooldown/counter class to trigger time based events in games
 - [pytmx](https://github.com/bitcraft/pytmx) - Python library to read Tiled Map Editor's TMX maps.
 - [pyscroll](https://github.com/bitcraft/pyscroll) - A simple and fast module for animated scrolling maps for your new or existing game.
+- [game-state](https://github.com/Jiggly-Balls/game-state) - A state machine system that allows you to handle different screens in an organized manner.
