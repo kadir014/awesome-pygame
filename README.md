@@ -16,6 +16,7 @@ A curated list of amazingly awesome Pygame tools, libraries and frameworks.
 - [pygame_gui](https://github.com/MyreMylar/pygame_gui) - A GUI system for pygame.
 - [pygame-menu-ce](https://github.com/ppizarror/pygame-menu/tree/pygame-ce) - A menu for pygame. Simple, and easy to use.
 - [nevu-ui](https://github.com/GolemBebrov/nevu-ui) - A modern, high-performance GUI framework for games, featuring a declarative style of creating interface.
+- [CoshUI](https://github.com/JyleFV/CoshUI) - A declarative UI framework with multi-backend (Pygame, Raylib, OpenGL) support, animations, and rich text rendering with CoshML markup.
 
 ## Multimedia
 - [pygame-video](https://github.com/kadir014/pygame-video) - Video player for Pygame
